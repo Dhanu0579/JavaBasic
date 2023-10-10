@@ -27,6 +27,8 @@ public class ReturnChar{
 		}
 		else{
 			System.out.println("Please Enter number between 1 and 0");
+			
+			
 		}
 		
 	}
